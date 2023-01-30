@@ -1,0 +1,18 @@
+﻿body, html {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
+
+label {
+    color: darkblue;
+    display: inline-block;
+    width: 130px;
+}
+
